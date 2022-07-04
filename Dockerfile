@@ -1,4 +1,4 @@
-FROM xyouxiu6/alist:v2.0.3
+FROM xyouxiu6/alist:latest
 WORKDIR /opt/alist/
 
 EXPOSE 5244
